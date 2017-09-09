@@ -80,3 +80,5 @@ For write module look core/modules/sample_module class
 + @[qwartz](http://github.com/qwartz) : Code update - multiple shortcut ...
 
 #### This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
+
+quickGuide: https://www.youtube.com/watch?v=gFk-maMEQOo
